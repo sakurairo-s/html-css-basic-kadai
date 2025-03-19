@@ -1,7 +1,7 @@
 ﻿/* フォントの種類 */
 /* フォントサイズ */
 html {
-  font size: 20px;
+  font-size: 20px;
 }
 
 body {
@@ -18,7 +18,7 @@ body {
   color: rgb(255, 192, 203);
 }
 
-#basic p {
+#basic > p {
  font-weight: bold;
 }
 
