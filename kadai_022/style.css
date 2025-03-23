@@ -1,4 +1,4 @@
-﻿div {
+div {
   display: inline-block;
 }
 
@@ -17,7 +17,7 @@ header {
     font-size: 30px;
   }
   p {
-font-size: 25px;     
+font-size: 25px;
   }
 }
 
@@ -48,6 +48,7 @@ flex-basis: 25%;
 padding: 10px 15px;
 margin: 20px 0;
 text-align: center;
+align-items: center;
 }
 h2 {
 font-size: 25px;
@@ -62,7 +63,7 @@ h2::before {
   content: "●";
   color: rgb(239, 111, 139) 
  }
-.contents {
+.contents img {
   margin: 10px 0;
   width: 70%;
 }
@@ -79,7 +80,4 @@ a:visited {
 a:hover {
 color: rgb(245, 178, 168)
 }
-img {
-  margin: 10px 0;
-  width: 70%;
-}
+
